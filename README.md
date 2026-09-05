@@ -6,7 +6,7 @@ Documentando mi progreso construyendo aplicaciones con Redis, desde comandos bá
 
 | # | Proyecto                   | Foco Redis           | Foco de ingeniería    | Estado      | Enlace         |
 | - | -------------------------- | -------------------- | --------------------- | ----------- | -------------- |
-| 0 | build-your-own-redis       | RESP, TCP, protocolo | Bajo nivel / sistemas | ✅ Terminado | [🔗 GitHub](#) |
+| 0 | build-your-own-redis       | RESP, TCP, protocolo | Bajo nivel / sistemas | ✅ Terminado | [🔗https://github.com/Darlinguww/codecrafters-redis-javascript] |
 | 1 | redis-rate-limiter         | Strings, Expiry      | Clean Code            | ⬜           | [🔗 GitHub](#) |
 | 2 | redis-session-store        | Lists, Expiry        | Automatización        | ⬜           | [🔗 GitHub](#) |
 | 3 | redis-pubsub-chat          | Pub/Sub              | Orientado a Objetos   | ⬜           | [🔗 GitHub](#) |
